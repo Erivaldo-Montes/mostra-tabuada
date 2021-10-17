@@ -1,0 +1,52 @@
+body{
+    background:#6b6bff;
+    font: normal 15pt arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 3px 10px #0000006b
+}
+
+select {
+    font-size: 14pt;
+    
+}
+
+
+input#calcular{
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px #0000007c;
+    background-color: #0a9a0a;
+    color: white;
+    height: 30px;
+    font-size: 15pt;
+    transition: 200ms;
+    margin-left: 30px;
+    
+
+}
+input#number{
+    border-radius: 10px;
+    height:30px ;
+    width: 150px;
+    font-size: 14pt ;
+
+
+}
+
+footer {
+    color:white;
+    font-style:italic;
+    text-align: center
+}
